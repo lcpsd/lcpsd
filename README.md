@@ -16,5 +16,5 @@
 ![Javascript Badge](https://img.shields.io/static/v1?label=React&message=%20&color=yellow&logo=javascript)
 ![React Badge](https://img.shields.io/static/v1?label=React&message=%20&color=blue&logo=React)
 
-#### How to contact me:\
+#### How to contact me:
 [![linkedin badge](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=blue&logo=Linkedin)](https://www.linkedin.com/in/lcpsd/)
