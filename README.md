@@ -3,7 +3,7 @@
 
 #### About me:
 
-- 🔭 I’m currently studying
+- 🔭 I’m currently student
 - 🌱 I’m currently learning ReactJs / React Native at Rocketseat plataform
 - 💬 Ask me about Javascript and React
 - 😄 Pronouns: Him/His
