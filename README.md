@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning ReactJs / React Native at Rocketseat plataform
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Javascript and React
-- 📫 How to reach me: 15707-359 - N 135.
 - 😄 Pronouns: Him/His
 
 #### Techs:
