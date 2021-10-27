@@ -1,9 +1,6 @@
 ### Hi there 👋
 #####I'm Lucas, a React web developer student looking for news opportunities.
 
-<!--
-**lcpsd/lcpsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ####About me:
 
 - 🔭 I’m currently studying
