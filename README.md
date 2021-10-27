@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning ReactJs / React Native at Rocketseat plataform
-- 🤔 I’m looking for help with 
 - 💬 Ask me about Javascript and React
 - 😄 Pronouns: Him/His
 
