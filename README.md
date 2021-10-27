@@ -11,9 +11,10 @@
 - 😄 Pronouns: Him/His
 
 #### Techs:
-![HTML5 Badge](https://img.shields.io/static/v1?label=React&message=%20&color=red&logo=html5)
-![CSS3 Badge](https://img.shields.io/static/v1?label=React&message=%20&color=white&logo=css3)
-![Javascript Badge](https://img.shields.io/static/v1?label=React&message=%20&color=yellow&logo=javascript)
+![HTML5 Badge](https://img.shields.io/static/v1?label=HTML5&message=%20&color=red&logo=html5)
+![CSS3 Badge](https://img.shields.io/static/v1?label=CSS3&message=%20&color=white&logo=css3)
+![SASS Badge](https://img.shields.io/static/v1?label=SASS&message=%20&color=pink&logo=sass)
+![Javascript Badge](https://img.shields.io/static/v1?label=Javascript&message=%20&color=yellow&logo=javascript)
 ![React Badge](https://img.shields.io/static/v1?label=React&message=%20&color=blue&logo=React)
 
 #### How to contact me:
