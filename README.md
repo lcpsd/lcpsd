@@ -20,4 +20,4 @@
 #### How to contact me:
 [![linkedin badge](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=blue&logo=Linkedin)](https://www.linkedin.com/in/lcpsd/)
 [![Rocketseat Badge](https://img.shields.io/static/v1?label=Rocketseat&message=%20&color=8403fc)](https://app.rocketseat.com.br/me/lucascardosopsd-1566562440)
-![Instagram Badge](https://img.shields.io/static/v1?label=Rocketseat&message=@lucascardosopsd&color=#9a00ff)
+![Instagram Badge](https://img.shields.io/static/v1?label=Instagram&message=@lucascardosopsd&color=#9a00ff)
