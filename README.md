@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I'm Lucas, a React web developer student looking for new opportunities.
+##### I'm Lucas, a ReactJs developer looking for new opportunities.
 
 #### About me:
 
